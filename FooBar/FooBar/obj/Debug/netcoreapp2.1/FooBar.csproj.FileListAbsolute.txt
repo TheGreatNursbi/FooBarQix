@@ -1,0 +1,11 @@
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\bin\Debug\netcoreapp2.1\FooBar.deps.json
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\bin\Debug\netcoreapp2.1\FooBar.runtimeconfig.json
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\bin\Debug\netcoreapp2.1\FooBar.runtimeconfig.dev.json
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\bin\Debug\netcoreapp2.1\FooBar.dll
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\bin\Debug\netcoreapp2.1\FooBar.pdb
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\obj\Debug\netcoreapp2.1\FooBar.csprojAssemblyReference.cache
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\obj\Debug\netcoreapp2.1\FooBar.csproj.CoreCompileInputs.cache
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\obj\Debug\netcoreapp2.1\FooBar.AssemblyInfoInputs.cache
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\obj\Debug\netcoreapp2.1\FooBar.AssemblyInfo.cs
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\obj\Debug\netcoreapp2.1\FooBar.dll
+C:\Users\nurdaulet.khozhakeld\Documents\Visual Studio 2017\Projects\FooBar\FooBar\obj\Debug\netcoreapp2.1\FooBar.pdb
